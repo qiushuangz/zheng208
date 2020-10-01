@@ -1,0 +1,20 @@
+{
+    "products": [{
+        "id": 100,
+        "title": "（郑州）361°KIDS 短袖针织衫",
+        "price": 68,
+        "pic": ["http://localhost/imgjson/68-%ef%bc%88%e9%83%91%e5%b7%9e%ef%bc%89361%c2%b0KIDS%20%e7%9f%ad%e8%a2%96%e9%92%88%e7%bb%87%e8%a1%ab/CggUF17kc6aAd1pmAADIK2SFqig864.jpg", "http://localhost/imgjson/68-%ef%bc%88%e9%83%91%e5%b7%9e%ef%bc%89361%c2%b0KIDS%20%e7%9f%ad%e8%a2%96%e9%92%88%e7%bb%87%e8%a1%ab/CggUF17kc7OAfecjAABGjjRT2NE695.jpg"]
+    }, {
+        "id": 100,
+        "title": "商品1",
+        "price": 200,
+        "pic": ["xssxs.html", "sdasdsada.html"]
+    }],
+    "user": [{
+        "id": "admin",
+        "pasword": "root"
+    }, {
+        "id": "admin1",
+        "pasword": "roo1t"
+    }]
+}
